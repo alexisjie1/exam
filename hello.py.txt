@@ -1,2 +1,1 @@
 printf("hello your grade is 3.0!!!!!!!!")
->>>>>>> 697670721a2425dea230d5435fb9b5eefda8580d
